@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">📚 Estudo desenvolvimento Front End e já tenho<br>alguns projetos pessoais em andamento,<br>além de colaborar com soluções inovadoras<br>para a comunidade. Meu foco é criar interfaces<br>elegantes, intuitivas e funcionais, sempre buscando<br>proporcionar a melhor experiência ao usuário...</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Experiência</h2>
 
 ###
 
@@ -28,14 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/1187833916">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1187833916&count=5" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
