@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Henrique Alvarenga</p>
+<h3 align="left">Me chamo Henrique Alvarenga</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Estudo desenvolvimento Front End e já tenho<br>alguns projetos pessoais em andamento,<br>além de colaborar com soluções inovadoras<br>para a comunidade. Meu foco é criar interfaces<br>elegantes, intuitivas e funcionais, sempre buscando<br>proporcionar a melhor experiência ao usuário...</p>
+<h6 align="left">Olá, Sou Henrique Alvarenga Hastenreiter, tenho 17 anos e sou apaixonado por tecnologia. Estudo desenvolvimento Front-End e já tenho alguns projetos pessoais em andamento, além de colaborar com soluções inovadoras para a comunidade. Meu foco é criar interfaces elegantes, intuitivas e funcionais, sempre buscando proporcionar a melhor experiência ao usuário.</h6>
 
 ###
 
