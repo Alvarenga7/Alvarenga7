@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">Olá, Sou Henrique Alvarenga Hastenreiter, tenho 17 anos e sou apaixonado por tecnologia. Estudo desenvolvimento Front-End e já tenho alguns projetos pessoais em andamento, além de colaborar com soluções inovadoras para a comunidade. Meu foco é criar interfaces elegantes, intuitivas e funcionais, sempre buscando proporcionar a melhor experiência ao usuário.</h5>
+<h4 align="left">Olá, Sou Henrique Alvarenga Hastenreiter, tenho 17 anos e sou apaixonado por tecnologia. Estudo desenvolvimento Front-End e já tenho alguns projetos pessoais em andamento, além de colaborar com soluções inovadoras para a comunidade. Meu foco é criar interfaces elegantes, intuitivas e funcionais, sempre buscando proporcionar a melhor experiência ao usuário.</h4>
 
 ###
 
